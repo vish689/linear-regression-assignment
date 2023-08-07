@@ -19,6 +19,9 @@ You are required to model the demand for shared bikes with the available indepen
 ## Data Dictionary:
 The data dictionary can be found [here](./Readme.txt)
 
+## Jupyter Notebook:
+The jupiter notebook can be found [here](./linear-regression.ipynb)
+
 ## Conclusion:
 
 The variables which could help predict the bike sharing numbers with their coefficients are as follows:
