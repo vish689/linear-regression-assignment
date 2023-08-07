@@ -23,13 +23,13 @@ The data dictionary can be found [here](./Readme.txt)
 
 The variables which could help predict the bike sharing numbers are:
 
-Holiday
-Misty weather
-Light Falls
-Winter Season
-September
-Windspeed
-Temperature
-Summer Season
-Year
-Spring Season
+- Holiday
+- Misty weather
+- Light Falls
+- Winter Season
+- September
+- Windspeed
+- Temperature
+- Summer Season
+- Year
+- Spring Season
