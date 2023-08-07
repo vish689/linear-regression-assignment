@@ -21,15 +21,18 @@ The data dictionary can be found [here](./Readme.txt)
 
 ## Conclusion:
 
-The variables which could help predict the bike sharing numbers are:
+The variables which could help predict the bike sharing numbers with their coefficients are as follows:
 
-- Holiday
-- Misty weather
-- Light Falls
-- Winter Season
-- September
-- Windspeed
-- Temperature
-- Summer Season
-- Year
-- Spring Season
+| Variable                | Coefficient |
+|-------------------------|-------------|
+| const                   |    0.190855 |
+| holiday                 |   -0.096316 |
+| weathersit_Mist         |   -0.078741 |
+| weathersit_LightFalls   |   -0.285031 |
+| season_Winter           |    0.094476 |
+| month_name_September    |    0.090998 |
+| windspeed               |   -0.148098 |
+| temp                    |    0.477737 |
+| season_Summer           |    0.062076 |
+| year                    |    0.234132 |
+| season_Spring           |   -0.055406 |
