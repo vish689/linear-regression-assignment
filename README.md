@@ -22,6 +22,9 @@ The data dictionary can be found [here](./Readme.txt)
 ## Jupyter Notebook:
 The jupiter notebook can be found [here](./linear-regression.ipynb)
 
+## Subjective Question Answers:
+The subjective question answers can be found [here](./Linear%20Regression%20Subjective%20Questions.pdf)
+
 ## Conclusion:
 
 The variables which could help predict the bike sharing numbers with their coefficients are as follows:
